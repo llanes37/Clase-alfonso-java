@@ -74,7 +74,7 @@
 
 // (Programación Orientada a Objetos - POO)
 // Definimos la clase principal
-public class UT5_ClasesObjetos {
+public class UT5_ClasesObjetosStreaming {
     public static void main(String[] args) {
         System.out.println("╔═══════════════════════════════════════════════╗");
         System.out.println("║   🎵 SISTEMA DE STREAMING DE MÚSICA 🎵      ║");
