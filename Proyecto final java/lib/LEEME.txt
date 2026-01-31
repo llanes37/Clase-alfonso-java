@@ -1,0 +1,4 @@
+Descargar el driver JDBC de SQL Server de:
+https://docs.microsoft.com/es-es/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server
+
+Colocar el archivo .jar en esta carpeta (ej: mssql-jdbc-12.4.2.jre11.jar)
